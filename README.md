@@ -1,6 +1,6 @@
 # CHAT API
 
-1. Description: We are planning to create a message API, which includes  the fonction of:
+1. Description: Our project domian are focusing on create a messaging and chat software by calling external API, which includes the fonction of:
     - Sending and receiving messages.
     - Replying messages.
     - Edit messages.
